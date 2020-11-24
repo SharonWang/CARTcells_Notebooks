@@ -20,5 +20,5 @@ This folder contains all jupyter notebooks to regenerate figures used in the Aut
     - Analysis of *in vitro* T cell samples using SCANPY
   - <ins>**[Tcells_Ex_Sig.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/Tcells_Ex_Sig.ipynb)**</ins>:
     - Calculation of T cell Exhaustion signature
-   - <ins>**[PBMC_Tcells_and_Tcells.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/PBMC_Tcells_and_Tcells.ipynb)**</ins>:
+  - <ins>**[PBMC_Tcells_and_Tcells.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/PBMC_Tcells_and_Tcells.ipynb)**</ins>:
     - Integration of PBMC T cells and *in vitro* T cells
