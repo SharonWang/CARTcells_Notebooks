@@ -2,7 +2,7 @@
 
 ## Xiaonan Wang
 ## 24Nov2020
-## Single Cell TranscriptomeAnalysisof CAR T-Cell Products Reveals Subpopulations, Stimulation and Exhaustion Signatures
+## Single Cell Transcriptome Analysis of CAR T-Cell Products Reveals Subpopulations, Stimulation and Exhaustion Signatures
 
 ## Abstract
 Chimeric antigen receptor (CAR) T-cell adoptive therapy is set to transform the treatment of a rapidly expanding range of malignancies. Although the activation process of normal T cells is well characterised, comparatively little is known about the activation of cells via the CAR. Here we have used flow cytometry together with single cell transcriptome profiling to characterise the starting material (peripheral blood mononuclear cells) and CAR therapeuticproductsof 3healthy donors in the presence and absence of antigen specific stimulation. Analysis of 53,191 single cell transcriptomes showed APRIL-based CAR products to contain several subpopulations of cells, withcellular composition reproducible from donor to donor, and all major cellular subsets compatible with CAR expression.Only 50% of CAR-expressing cellsdisplayed transcriptional changes upon CAR-specific antigen exposure. The resultingmolecular signature for CAR T-cell activation provides a rich resource for future dissection of underlying mechanisms.Targeted data interrogation also revealed that a small proportion of antigen-responding CAR-expressing cells displayed an exhaustion signature, with both known markers and genes not previously associated with T-cell exhaustion.Comprehensive single cell transcriptomic analysis thus represents a powerful way to guide the assessment and optimization of clinical-grade CAR-T-cells, and inform future research into the underlying molecular processes.
