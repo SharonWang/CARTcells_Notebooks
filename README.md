@@ -14,8 +14,6 @@ This folder contains all jupyter notebooks to regenerate figures used in the Aut
     - Analysis of 3 PBMC samples using SCANPY
   - <ins>**[PBMC_Tcells_analysis.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/PBMC_Tcells_analysis.ipynb)**</ins>:
     - Analysis of T cells in PBMC samples using SCANPY
-  - <ins>**[PBMC_project_onto_PBMC68K.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/PBMC_project_onto_PBMC68K.ipynb)**</ins>:
-    - Projection of PBMC samples onto [Zheng2017](https://www.nature.com/articles/ncomms14049) landscape
   - <ins>**[Tcells_analysis.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/Tcells_analysis.ipynb)**</ins>:
     - Analysis of *in vitro* T cell samples using SCANPY
   - <ins>**[Tcells_Ex_Sig.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/Tcells_Ex_Sig.ipynb)**</ins>:
