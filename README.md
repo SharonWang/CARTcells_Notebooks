@@ -13,7 +13,7 @@ The experiments were done following the strategy below:
 <p align="center"><img src="figures/Wang_Figure 1_Resubmission-1.png" alt="schematic" width="50%"></p>
 
 ## Notebooks
-This folder contains all jupyter notebooks to regenerate figures used in the Autolus CAR T-cells paper.
+This folder contains all jupyter notebooks to regenerate figures used in the paper.
  
   - <ins>**[PBMC_analysis.ipynb](https://github.com/SharonWang/CARTcells_Notebooks/blob/master/Notebooks/PBMC_analysis.ipynb)**</ins>:
     - Analysis of 3 PBMC samples using SCANPY
